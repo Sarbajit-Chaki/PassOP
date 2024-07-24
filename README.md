@@ -51,3 +51,7 @@ The main motivation behind this project was educational. It aimed to enhance ski
      ```
 
 5. Once both servers are running, open your web browser and navigate to [http://localhost:5173](http://localhost:5173) to use the application.
+
+
+Includes a version where users can manage their passwords using their browser's local storage.
+Explore the project live [here](https://sarbajit-passop.netlify.app/)
